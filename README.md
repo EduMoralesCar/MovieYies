@@ -1,4 +1,41 @@
-# Guía de Instalación para MovieYies
+# 🎬 MovieYies
+
+**MovieYies** es una plataforma de streaming de películas y series inspirada en Netflix. Permite a los usuarios explorar, ver y calificar contenido multimedia, gestionar múltiples perfiles por cuenta y disfrutar de una experiencia de usuario moderna y fluida.
+
+---
+
+## ✨ Características Principales
+
+- 🔐 **Autenticación de usuarios** - Registro e inicio de sesión seguro
+- 👥 **Múltiples perfiles por cuenta** - Cada usuario puede crear varios perfiles (incluyendo perfiles infantiles)
+- 🎥 **Catálogo de películas y series** - Explora contenido organizado por géneros
+- 📺 **Reproductor de video integrado** - Visualiza contenido directamente en la plataforma
+- ⭐ **Sistema de calificaciones** - Puntúa el contenido que has visto
+- 📜 **Historial de visualización** - Mantiene un registro del progreso de reproducción
+- 💳 **Planes de suscripción** - Básico, Estándar y Premium
+- 🛠️ **Panel de administración** - Gestión completa del contenido y usuarios
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+### Backend
+- **Python 3.8+** - Lenguaje de programación
+- **Django** - Framework web
+- **Django REST Framework** - API REST
+- **MySQL** - Base de datos
+
+### Frontend
+- **React 19** - Biblioteca de UI
+- **Vite** - Herramienta de construcción
+- **Tailwind CSS** - Framework de estilos
+- **React Router** - Navegación
+- **Axios** - Cliente HTTP
+- **Lucide React** - Iconos
+
+---
+
+## 📦 Guía de Instalación
 
 Sigue estos pasos para levantar el proyecto en tu entorno local.
 
@@ -75,3 +112,33 @@ Sigue estos pasos para levantar el proyecto en tu entorno local.
 - **Backend Admin:** http://localhost:8000/admin (credenciales: son las mismas que las de tu usuario administrador)
 
 ¡Listo! Disfruta de MovieYies. 🍿
+
+---
+
+## 📁 Estructura del Proyecto
+
+```
+MovieYies/
+├── backend/                 # API REST con Django
+│   ├── api/                 # Endpoints y serializadores
+│   ├── core/                # Modelos de datos
+│   ├── config/              # Configuración de Django
+│   └── requirements.txt     # Dependencias de Python
+├── frontend/                # Aplicación React
+│   ├── src/
+│   │   ├── components/      # Componentes reutilizables
+│   │   ├── pages/           # Páginas de la aplicación
+│   │   └── utils/           # Utilidades
+│   └── package.json         # Dependencias de Node.js
+└── README.md
+```
+
+---
+
+## 📝 Licencia
+
+Este proyecto es de código abierto y está disponible para fines educativos.
+
+---
+
+Hecho con ❤️ por el equipo de MovieYies
