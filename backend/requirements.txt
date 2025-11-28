@@ -1,0 +1,7 @@
+django
+djangorestframework
+pymysql
+django-cors-headers
+pyjwt
+pillow
+requests
