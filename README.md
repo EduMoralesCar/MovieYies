@@ -13,7 +13,12 @@ Sigue estos pasos para levantar el proyecto en tu entorno local.
    ```bash
    cd backend
    python -m venv venv
-   source venv/bin/activate  # En Windows: venv\Scripts\activate
+
+   # Linux/Mac:
+   source venv/bin/activate
+
+   # En Windows:
+   venv\Scripts\activate
    ```
 
 2. **Instalar dependencias:**
