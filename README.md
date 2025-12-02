@@ -75,3 +75,43 @@ Sigue estos pasos para levantar el proyecto en tu entorno local.
 - **Backend Admin:** http://localhost:8000/admin (credenciales: son las mismas que las de tu usuario administrador)
 
 ¡Listo! Disfruta de MovieYies. 🍿
+
+---
+
+# Capturas de Pantalla de MovieYies
+## Reistro de Autenticación
+> Los nuevos usuarios pueden crear una cuenta proporcionando un correo 
+electrónico y una contraseña.
+
+## Login
+> Acceso seguro mediante credenciales.
+
+## Planes de Suscriptción
+> MovieYies ofrece 3 niveles de servicio para adaptarse a sus necesidades: 
+
+## Gestion de Usuarios
+> Cada cuenta de usuario puede tener múltiples perfiles
+
+## Registro de Contenido
+> Exploración de catálogo por géneros (Inicio, Películas, Series, Populares y Mi Lista). 
+
+### Inicio
+> Catálogo principal con recomendaciones y accesos rápidos.
+
+### Peliculas
+> Navegación por géneros y títulos destacados.
+
+### Series
+> Listado de temporadas y capítulos disponibles.
+
+### Populares
+> Contenidos más vistos y en tendencia.
+
+### Mi lista
+> Favoritos guardados por el usuario para ver luego.
+
+### Información y Reproducir
+> Ficha con detalles y botón de reproducción.
+
+#### Resultado
+> Inicio de transmisión del video con controles básicos.
