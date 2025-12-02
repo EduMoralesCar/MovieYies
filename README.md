@@ -75,3 +75,63 @@ Sigue estos pasos para levantar el proyecto en tu entorno local.
 - **Backend Admin:** http://localhost:8000/admin (credenciales: son las mismas que las de tu usuario administrador)
 
 ¡Listo! Disfruta de MovieYies. 🍿
+
+---
+
+# Capturas de Pantalla de MovieYies
+## 1. Reistro de Autenticación
+> Los nuevos usuarios pueden crear una cuenta proporcionando un correo 
+electrónico y una contraseña.
+<img width="1358" height="621" alt="Captura de pantalla 2025-11-29 103917" src="https://github.com/user-attachments/assets/864d60c6-cf66-4002-9cee-25daf1af18af" />
+
+## 2. Login
+> Acceso seguro mediante credenciales.
+<img width="1357" height="616" alt="Captura de pantalla 2025-11-29 104007" src="https://github.com/user-attachments/assets/32be2a22-a048-4a2c-bb7b-1e2301dbcc8e" />
+
+## 3. Planes de Suscriptción
+> MovieYies ofrece 3 niveles de servicio para adaptarse a sus necesidades: 
+<img width="1333" height="624" alt="Captura de pantalla 2025-11-29 104120" src="https://github.com/user-attachments/assets/0cd88a30-1f4a-4686-8a58-8dec58ebdf46" />
+
+## 4. Gestion de Usuarios
+> Cada cuenta de usuario puede tener múltiples perfiles
+<img width="783" height="444" alt="Captura de pantalla 2025-11-29 104419" src="https://github.com/user-attachments/assets/1a400afc-71d5-4cb6-aa89-d2b7f2dcbbe1" />
+
+## 5. Registro de Contenido
+> Exploración de catálogo por géneros (Inicio, Películas, Series, Populares y Mi Lista). 
+### 5.1. Inicio
+> Catálogo principal con recomendaciones y accesos rápidos.
+<img width="1910" height="928" alt="Captura de pantalla 2025-11-29 105700" src="https://github.com/user-attachments/assets/8d77ef56-4b12-4680-b9b2-0c507b389a97" />
+
+### 5.2. Peliculas
+> Navegación por géneros y títulos destacados.
+<img width="1910" height="926" alt="Captura de pantalla 2025-11-29 105753" src="https://github.com/user-attachments/assets/d88a0ae6-b63b-4dd8-b352-24ee45628389" />
+
+### 5.3. Series
+> Listado de temporadas y capítulos disponibles.
+<img width="1905" height="924" alt="Captura de pantalla 2025-11-29 105821" src="https://github.com/user-attachments/assets/7c8c2566-69cb-43aa-9ebb-16ee077621d8" />
+
+### 5.4. Populares
+> Contenidos más vistos y en tendencia.
+<img width="1907" height="919" alt="Captura de pantalla 2025-11-29 105859" src="https://github.com/user-attachments/assets/2b5442ca-1b55-473b-96d4-ee6289043b25" />
+
+### 5.5. Mi lista
+> Favoritos guardados por el usuario para ver luego.
+<img width="1908" height="928" alt="Captura de pantalla 2025-11-29 110031" src="https://github.com/user-attachments/assets/11780163-48c5-441a-b369-a88817bdfe09" />
+
+### 5.6. Información y Reproducir
+> Ficha con detalles y botón de reproducción.
+<img width="1908" height="924" alt="Captura de pantalla 2025-11-29 110150" src="https://github.com/user-attachments/assets/5b546712-a90a-4dc2-9bc9-f25cd822915d" />
+
+#### 5.6.1. Resultado
+> Inicio de transmisión del video con controles básicos.
+<img width="1912" height="925" alt="Captura de pantalla 2025-11-29 110122" src="https://github.com/user-attachments/assets/32ca08dc-7fe4-4f1c-96d1-54b96f80a1ab" />
+
+## 6. Panel de Administración
+> Espacio exclusivo para el administrador, donde puede gestionar usuarios, perfiles y contenido.
+> - Crear, editar o eliminar películas y series.
+> - Administrar cuentas y roles de usuario.
+> - Revisar estadísticas básicas de uso.
+> - Control total del catálogo y la plataforma.
+
+<img width="1915" height="881" alt="Captura de pantalla 2025-11-29 111120" src="https://github.com/user-attachments/assets/9a9fd039-2702-4379-b9e7-e8e40681dd31" />
+
