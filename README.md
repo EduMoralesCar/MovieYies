@@ -79,39 +79,39 @@ Sigue estos pasos para levantar el proyecto en tu entorno local.
 ---
 
 # Capturas de Pantalla de MovieYies
-## Reistro de Autenticación
+## 1. Reistro de Autenticación
 > Los nuevos usuarios pueden crear una cuenta proporcionando un correo 
 electrónico y una contraseña.
 
-## Login
+## 2. Login
 > Acceso seguro mediante credenciales.
 
-## Planes de Suscriptción
+## 3. Planes de Suscriptción
 > MovieYies ofrece 3 niveles de servicio para adaptarse a sus necesidades: 
 
-## Gestion de Usuarios
+## 4. Gestion de Usuarios
 > Cada cuenta de usuario puede tener múltiples perfiles
 
-## Registro de Contenido
+## 5. Registro de Contenido
 > Exploración de catálogo por géneros (Inicio, Películas, Series, Populares y Mi Lista). 
 
-### Inicio
+### 5.1. Inicio
 > Catálogo principal con recomendaciones y accesos rápidos.
 
-### Peliculas
+### 5.2. Peliculas
 > Navegación por géneros y títulos destacados.
 
-### Series
+### 5.3. Series
 > Listado de temporadas y capítulos disponibles.
 
-### Populares
+### 5.4. Populares
 > Contenidos más vistos y en tendencia.
 
-### Mi lista
+### 5.5. Mi lista
 > Favoritos guardados por el usuario para ver luego.
 
-### Información y Reproducir
+### 5.6. Información y Reproducir
 > Ficha con detalles y botón de reproducción.
 
-#### Resultado
+#### 5.6.1. Resultado
 > Inicio de transmisión del video con controles básicos.
