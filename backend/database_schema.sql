@@ -1,6 +1,10 @@
 -- Script de creación de tablas para la aplicación MovieYies (MySQL)
 -- Generado basado en los modelos de Django (core/models.py)
 
+CREATE DATABASE IF NOT EXISTS yies_streaming;
+USE yies_streaming;
+
+
 SET FOREIGN_KEY_CHECKS=0;
 
 -- Tabla: Usuario (Extiende AbstractUser)
