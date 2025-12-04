@@ -72,7 +72,8 @@ Sigue estos pasos para levantar el proyecto en tu entorno local.
 
 ## 3. Acceso
 - **Frontend:** http://localhost:5173
-- **Backend Admin:** http://localhost:8000/admin (credenciales: son las mismas que las de tu usuario administrador)
+- **Acceso al panel de Administración:** http://localhost:8000/admin
+  > Credenciales: utiliza el correo y contraseña de tu usuario administrador creado previamente.
 
 ¡Listo! Disfruta de MovieYies. 🍿
 
