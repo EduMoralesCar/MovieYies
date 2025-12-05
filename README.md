@@ -1,13 +1,60 @@
-# Guía de Instalación para MovieYies
+<p align="center"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4496a7c1-9d3a-4328-bf0e-42ebda481ae2" />
+</p>
 
-Sigue estos pasos para levantar el proyecto en tu entorno local.
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&width=800&lines=Proyecto+Final+de+Lenguajes+de+Programación+%7C+2025)
+
+#
+
+## 💻 Backend & API
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Django REST Framework](https://img.shields.io/badge/Django_REST-ff1744?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io/)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+</div>
+
+
+## 🎨 Frontend & UI
+
+<div align="center">
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
+[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
+</div>
+
+
+## 🛠️ Herramientas
+<div align="center">
+
+[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+</div>
+
+---
+
+# 1. Guía de Instalación para MovieYies
+> Sigue estos pasos para levantar el proyecto en tu entorno local.
 
 ## Requisitos Previos
 - Python 3.8+
 - Node.js 16+
 - MySQL Server
 
-## 1. Configuración del Backend (Django)
+## Implementación Local
+**Clona el repositorio:**
+
+   ```bash
+    git clone https://github.com/EduMoralesCar/MovieYies.git
+    cd MovieYies/
+   ```
+
+
+## Configuración del Backend (Django)
 
 1. **Crear entorno virtual:**
    ```bash
@@ -79,7 +126,7 @@ Sigue estos pasos para levantar el proyecto en tu entorno local.
 
 ---
 
-# Capturas de Pantalla de MovieYies
+# 2. Capturas de Pantalla de MovieYies
 ## 1. Reistro de Autenticación
 > Los nuevos usuarios pueden crear una cuenta proporcionando un correo 
 electrónico y una contraseña.
