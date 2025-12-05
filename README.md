@@ -40,16 +40,24 @@
 ---
 
 
-# Guía de Instalación para MovieYies
-
-Sigue estos pasos para levantar el proyecto en tu entorno local.
+# 1. Guía de Instalación para MovieYies
+> Sigue estos pasos para levantar el proyecto en tu entorno local.
 
 ## Requisitos Previos
 - Python 3.8+
 - Node.js 16+
 - MySQL Server
 
-## 1. Configuración del Backend (Django)
+## Implementación Local
+**Clona el repositorio:**
+
+   ```bash
+    git clone https://github.com/EduMoralesCar/MovieYies.git
+    cd MovieYies/
+   ```
+
+
+## Configuración del Backend (Django)
 
 1. **Crear entorno virtual:**
    ```bash
@@ -121,7 +129,7 @@ Sigue estos pasos para levantar el proyecto en tu entorno local.
 
 ---
 
-# Capturas de Pantalla de MovieYies
+# 2. Capturas de Pantalla de MovieYies
 ## 1. Reistro de Autenticación
 > Los nuevos usuarios pueden crear una cuenta proporcionando un correo 
 electrónico y una contraseña.
