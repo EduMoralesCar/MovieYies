@@ -1,3 +1,12 @@
+<p align="center"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4496a7c1-9d3a-4328-bf0e-42ebda481ae2" />
+</p>
+
+
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&width=800&lines=Proyecto+Final+de+Lenguajes+de+Programación+%7C+2025)
+#
+
+
+
 # Guía de Instalación para MovieYies
 
 Sigue estos pasos para levantar el proyecto en tu entorno local.
