@@ -33,8 +33,8 @@
 > Sigue estos pasos para levantar el proyecto en tu entorno local.
 
 ## Requisitos Previos
-- Python 3.8+
-- Node.js 16+
+- Python 3.8
+- Node.js 16
 - MySQL Server
 
 ## Implementación Local
