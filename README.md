@@ -175,3 +175,4 @@ electrónico y una contraseña.
 
 <img width="1915" height="881" alt="Captura de pantalla 2025-11-29 111120" src="https://github.com/user-attachments/assets/9a9fd039-2702-4379-b9e7-e8e40681dd31" />
 
+---
